@@ -1,13 +1,11 @@
 ---
 # Display name
-title: 吳健雄
+title: Барбакова Алиса Саяновна
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Алиса
+last_name: Барбакова
 
 # Status emoji
 status:
@@ -20,12 +18,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Студентка
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: РУДН им. Патриса Лумумбы
+    url: https://rudn.ru/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,42 +45,34 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Математика
+  - Чтение фэнтези книг
+  - Просмотр аниме, фильмов, сериалов
+  - Прохождение компьютерных игр (undertale, hsr)
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Компьютерные и информационные науки
+    institution: Российский университет дружбы народов
+    date_start: 2024-09-01
+    date_end: 2028-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+        Обучение по программе бакалавриата, после окончания будет получено высшее образование
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    button:
+#     text: 'Read Thesis'
+#     url: 'https://example.com'
+  - area: Лингвистические и информационные знания
+    institution: Лингвистическая гимназия №3
+    date_start: 2014-09-01
+    date_end: 2024-06-01
+    summary: |
+        Было получено среднее общее образование
+#        
+#        Courses included:
+#        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -181,6 +171,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Про Меня
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Барбакова Алиса Саяновна является студенткой "Российского университета дружбы народов имени Патриса Лумумбы". Она обучается по программе "Компьютерные и информационные технологии". Профессиональная деятельность выпускника бакалавриата по укрупненному направлению подготовки направлена на разработку и применение информационных систем в различных сферах экономики, а также на научные исследования по анализу новизны, надёжности и эффективности существующих и разрабатываемых инфокоммуникационных систем и их элементов.
