@@ -502,6 +502,8 @@
       "skills-content",
       "skills-icon",
       "skills-name",
+      "skills-percent",
+      "skills-wrapper",
       "sm:-inset-x-6",
       "sm:mt-20",
       "sm:px-0",
@@ -598,7 +600,16 @@
       "Layer_1",
       "TableOfContents",
       "callouts",
-      "chart-579642138",
+      "chart-178546392",
+      "chart-364812957",
+      "chart-374592168",
+      "chart-519678423",
+      "chart-598246317",
+      "chart-657123498",
+      "chart-723896514",
+      "chart-732861459",
+      "chart-752814369",
+      "chart-862147953",
       "charts",
       "code",
       "crowd-funded-open-source-software",
@@ -651,12 +662,15 @@
       "todo-lists",
       "top",
       "video",
+      "некоторые-элементы-синтаксиса-markdown",
       "общая-информация",
       "основные-команды",
       "почему-ко-мне-приехали",
       "про-меня",
       "супер-неделя",
-      "что-мы-делали"
+      "так-что-же-я-делала",
+      "что-мы-делали",
+      "что-такое-день-тюлень"
     ]
   }
 }
