@@ -28,21 +28,23 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: academicons/elsevier
+    url: 'https://www.elibrary.ru/author_info.asp?isold=1'
+  - icon: academicons/academia
+    url: 'https://www.academia.edu/upgrade?feature=searchm'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: academicons/arxiv
+    url: https://arxiv.org/user/
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Alisa-Barbakova/research?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoicHJvZmlsZVZlcmlmaWNhdGlvbiJ9fQ
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/ASBarbakova/study_2024-2025_os-intro/tree/master/project-personal/stage4
+  - icon: academicons/mendeley
+    url: https://www.mendeley.com/library/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/scholar?scilib=1&hl=ru
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0008-5931-1555
 
 interests:
   - Математика
